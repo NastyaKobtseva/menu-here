@@ -35,8 +35,7 @@ a {
     top: 0%;
     padding-top: 46px;
     padding-bottom: 39px;
-    padding-left: 59px;
-    padding-right: 38px;
+    padding-right: 70px;
     transform: translateX(-100%);
     transition: transform 0.3s ease;
 }
